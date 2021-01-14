@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">//특정 폴더를 현재 폴더로 인식? 무슨말이지..
+    <external-path
+        name="sdcard"
+        path="." />
+</paths>

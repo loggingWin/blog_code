@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UploadImage</string>
+    <string name="camera">카메라</string>
+    <string name="gallery">갤러리</string>
+    <string name="move">이동\n하기</string>
+    <string name="upload">업로드\n하기</string>
+</resources>
