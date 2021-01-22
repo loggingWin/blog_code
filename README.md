@@ -9,3 +9,4 @@
 - [UploadImage](https://teamblog.tistory.com/24) : 카메라·갤러리에서 가져온 이미지 Firebase에 저장하기
 - [StoreObjectBySplitString](https://teamblog.tistory.com/25) : SharedPreferences, split()으로 객체 저장하기
 - [StoreObjectUsingJson](https://teamblog.tistory.com/28) : SharedPreferences, JSON으로 객체 저장하기
+- ThreadPractice : thread 및 handler 사용한 [초시계(time watch)](https://teamblog.tistory.com/30), [이미지 변경하기](https://teamblog.tistory.com/31), [텍스트 변경하기](https://teamblog.tistory.com/32)
